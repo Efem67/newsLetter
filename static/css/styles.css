@@ -1,0 +1,29 @@
+body{
+    padding: 2px;
+}
+.divekLogin{
+    width: 300px;
+    height: 70px;
+    padding: 6px;
+    background-color: rgb(182, 255, 182);
+    border: 4px solid green;
+}
+
+.loginForm{
+    display: flex;
+    flex-direction: column;
+
+}
+
+label{
+    margin-bottom: 2px;
+}
+.batonek{
+    width: 60px;
+}
+
+.divekHrefs{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
